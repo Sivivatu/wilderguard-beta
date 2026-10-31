@@ -1,0 +1,63 @@
+{
+  "repo": {
+    "timestamp": 1793441046000,
+    "version": 20002,
+    "name": "Wilderguard Beta",
+    "icon": "icon.png",
+    "address": "https://sivivatu.github.io/wilderguard-beta/fdroid/repo",
+    "description": "Made by Eric, a 7-year-old boy. Unlisted tower-defense beta; no accounts or ads."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Eric",
+      "categories": [
+        "Games"
+      ],
+      "suggestedVersionName": "0.1.0-beta.1",
+      "suggestedVersionCode": "1",
+      "description": "Made by Eric, a 7-year-old boy.\n\nDefend Elderglen across five regions and 25 monster waves. Build Archer,\nCannon, and Frost towers, upgrade your defenses, and earn diamonds and spells.\nPlay offline with touch controls designed for a landscape Android tablet.\n\nThis is an early beta in a developer-operated custom F-Droid repository.\nThere are no accounts, advertising, tracking, or in-app purchases.\nSaved progress stays on the device. The beta installs separately from the\noriginal debug preview and does not import that preview's saved progress.\n",
+      "license": "Unknown",
+      "summary": "Eric's tower defense adventure",
+      "added": 1793441043000,
+      "packageName": "com.wilderguard.game.beta",
+      "lastUpdated": 1793441043000,
+      "localized": {
+        "en-US": {
+          "name": "Wilderguard Beta"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "com.wilderguard.game.beta": [
+      {
+        "added": 1793441043000,
+        "apkName": "com.wilderguard.game.beta_1.apk",
+        "hash": "17a2f6e1bc08e065b4addeac48a80aeb6be1d3ca0d64de38cb7b7f58d0a09876",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "packageName": "com.wilderguard.game.beta",
+        "sig": "0c5d33745cde5f96d7759869cf0bc239",
+        "signer": "f50b3059b4cc987036cc3738ea8b87c3058d00ae3f0f07a51ba80a0555f2e138",
+        "size": 3271407,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.wilderguard.game.beta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 1,
+        "versionName": "0.1.0-beta.1"
+      }
+    ]
+  }
+}
