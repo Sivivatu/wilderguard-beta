@@ -14,7 +14,7 @@
       }
     },
     "address": "https://sivivatu.github.io/wilderguard-beta/fdroid/repo",
-    "timestamp": 1793530665000,
+    "timestamp": 1793541445000,
     "categories": {
       "Games": {
         "name": {
@@ -30,7 +30,7 @@
         "categories": [
           "Games"
         ],
-        "lastUpdated": 1793529451000,
+        "lastUpdated": 1793541441000,
         "authorName": "Eric",
         "name": {
           "en-US": "Wilderguard Beta"
@@ -44,6 +44,35 @@
         "preferredSigner": "f50b3059b4cc987036cc3738ea8b87c3058d00ae3f0f07a51ba80a0555f2e138"
       },
       "versions": {
+        "c2206dcf7d206aaab70715212b5afd3fea7268e366bb88d079f2d5d7157eecde": {
+          "added": 1793541441000,
+          "file": {
+            "name": "/com.wilderguard.game.beta_3.apk",
+            "sha256": "c2206dcf7d206aaab70715212b5afd3fea7268e366bb88d079f2d5d7157eecde",
+            "size": 3406849
+          },
+          "manifest": {
+            "versionName": "0.1.0-beta.3",
+            "versionCode": 3,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "f50b3059b4cc987036cc3738ea8b87c3058d00ae3f0f07a51ba80a0555f2e138"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "com.wilderguard.game.beta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "8168b78ecfecb76248ef3b4b6bfcc1c6948dc28f52b1ad44d9b7724612985d4d": {
           "added": 1793529451000,
           "file": {
