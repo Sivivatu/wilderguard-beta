@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1793880119000,
+    "timestamp": 1793897023000,
     "version": 20002,
     "name": "Wilderguard Beta",
     "icon": "icon.png",
@@ -17,14 +17,14 @@
       "categories": [
         "Games"
       ],
-      "suggestedVersionName": "0.1.0-beta.7",
-      "suggestedVersionCode": "7",
-      "description": "Made by Eric, a 7-year-old boy.\n\nDefend Elderglen across five regions and 25 monster waves. Build Archer,\nCannon, and Frost towers, upgrade your defenses, and earn diamonds and spells.\nSend soldiers from towers, train them separately and recover diamonds for\neach survivor. Defend five distinct pixel-photo environments and roads.\nConfirm purchases and play offline with compact landscape touch controls.\nWatch castle and tower health, repair damaged towers and counter ranged\naxe-throwing orcs with soldiers. Fullscreen controls adapt to your device.\n\nFrost towers prefer unchilled enemies, with an 85% chance to apply slow.\n\nThis is an early beta in a developer-operated custom F-Droid repository.\nThere are no accounts, advertising, tracking, or in-app purchases.\nSaved progress stays on the device. The beta installs separately from the\noriginal debug preview and does not import that preview's saved progress.\n",
+      "suggestedVersionName": "0.1.0-beta.8",
+      "suggestedVersionCode": "8",
+      "description": "Made by Eric, a 7-year-old boy.\n\nDefend Elderglen across five regions and 25 monster waves. Build Archer,\nCannon, and Frost towers, upgrade your defenses, and earn diamonds and spells.\nSend soldiers from towers, train them separately and recover diamonds for\neach survivor. Defend five distinct pixel-photo environments and roads.\nConfirm purchases and play offline with compact landscape touch controls.\nWatch castle and tower health, repair damaged towers and counter ranged\naxe-throwing orcs with soldiers. Fullscreen controls adapt to your device.\n\nFrost towers prefer unchilled enemies. Chill chance improves from 35% at\nlevel 1 to 50% at level 2 and 85% at level 3.\n\nThis is an early beta in a developer-operated custom F-Droid repository.\nThere are no accounts, advertising, tracking, or in-app purchases.\nSaved progress stays on the device. The beta installs separately from the\noriginal debug preview and does not import that preview's saved progress.\n",
       "license": "Unknown",
       "summary": "Eric's tower defense adventure",
       "added": 1793441043000,
       "packageName": "com.wilderguard.game.beta",
-      "lastUpdated": 1793880111000,
+      "lastUpdated": 1793897013000,
       "localized": {
         "en-US": {
           "name": "Wilderguard Beta"
@@ -34,6 +34,30 @@
   ],
   "packages": {
     "com.wilderguard.game.beta": [
+      {
+        "added": 1793897013000,
+        "apkName": "com.wilderguard.game.beta_8.apk",
+        "hash": "1d6dbe788758dce5190b557c3eb1e665a565d89993d90c1c320f699d6d11d03a",
+        "hashType": "sha256",
+        "minSdkVersion": 22,
+        "packageName": "com.wilderguard.game.beta",
+        "sig": "0c5d33745cde5f96d7759869cf0bc239",
+        "signer": "f50b3059b4cc987036cc3738ea8b87c3058d00ae3f0f07a51ba80a0555f2e138",
+        "size": 5172806,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "com.wilderguard.game.beta.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "0.1.0-beta.8"
+      },
       {
         "added": 1793880111000,
         "apkName": "com.wilderguard.game.beta_7.apk",
