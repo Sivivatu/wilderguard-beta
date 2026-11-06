@@ -62,5 +62,13 @@
     "sha256": "1d6dbe788758dce5190b557c3eb1e665a565d89993d90c1c320f699d6d11d03a",
     "sourceSha256": "c92cc760caa955598dd367cfa00b737c2c7e7d153edb64a1dc5b53471b232c49",
     "addedAt": 1793897013
+  },
+  {
+    "versionCode": 9,
+    "versionName": "0.1.0-beta.9",
+    "apkName": "com.wilderguard.game.beta_9.apk",
+    "sha256": "286e4d73d783ab36565293585215977ab4a31941d241acf50cd5eae3e16662fe",
+    "sourceSha256": "b9e7f6465c91c6d5f5e346e5430fc07fe8339d13bf20227a75bb7dddc0580c47",
+    "addedAt": 1793966092
   }
 ]
